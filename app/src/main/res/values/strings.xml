@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">LatihanAssesment</string>
+    <string name="halaman_absen">Halaman Absen</string>
+    <string name="nama">Nama Lengkap</string>
+    <string name="NIM">NIM</string>
+    <string name="absen">Absen</string>
+    <string name="bagikan_template">
+        Nama : %1$s\n
+        NIM : %2$s\n
+        Statuss : %3$s
+    </string>
+    <string name="masuk">Hadir</string>
+    <string name="izin">Izin</string>
+    <string name="alpha">Bolos</string>
+    <string name="diklik">%1$s Sedang %2$s</string>
+    <string name="email">Email</string>
+    <string name="bagikan">Bagikan</string>
+    <string name="input_invalid">Tidak boleh kosong</string>
+    <string name="login">Masuk</string>
+    <string name="username">Username</string>
+    <string name="password">Kata Sandi</string>
+</resources>
