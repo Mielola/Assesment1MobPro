@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">LatihanAssesment</string>
+    <string name="app_name">Assesment2</string>
     <string name="halaman_absen">Halaman Absen</string>
     <string name="nama">Nama Lengkap</string>
     <string name="NIM">NIM</string>
@@ -19,5 +19,21 @@
     <string name="login">Masuk</string>
     <string name="username">Username</string>
     <string name="password">Kata Sandi</string>
+    <string name="tambah_catatan" translatable="false">Tambah absensi</string>
+    <string name="tambah_error" translatable="false">Belum bisa tambah catatan</string>
     <string name="profile">Saya adalah Muhammad Wildan Dhiya Ulhaq seorang mahasiswa dari telkom university yang saat ini saya sedang berkuliah di jurusan D3 Rekayasa Perangkat Lunak Aplikasi</string>
+    <string name="list_kosong" translatable="false">Data Kosong</string>
+    <string name="simpan" translatable="false">Simpan</string>
+    <string name="edit_catatan" translatable="false">Ubah absensi</string>
+    <string name="kembali" translatable="false">Kembali</string>
+    <string name="judul" translatable="false">Nama Karyawan / Mahasiswa</string>
+    <string name="isi_catatan" translatable="false">NIP / NIM</string>
+    <string name="invalid" translatable="false">Nama, NIP / NIM dan Status tidak boleh kosong.</string>
+    <string name="lainnya" translatable="false">Opsi lainnya</string>
+    <string name="hapus" translatable="false">Hapus absen</string>
+    <string name="pesan_hapus" translatable="false">Hapus absen ini</string>
+    <string name="tombol_hapus" translatable="false">Hapus</string>
+    <string name="tombol_batal" translatable="false">Batal</string>
+    <string name="list" translatable="false">Tampilan list</string>
+    <string name="grid" translatable="false">Tampilan grid</string>
 </resources>
