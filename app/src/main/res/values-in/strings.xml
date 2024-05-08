@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Aplikasi Absen</string>
+    <string name="halaman_absen">Halaman Absen</string>
+    <string name="nama">Nama Lengkap</string>
+    <string name="NIM">NIM</string>
+    <string name="absen">Absen</string>
+    <string name="bagikan_template">"         Nama : %1$s          NIM : %2$s          Statuss : %3$s"</string>
+    <string name="masuk">Hadir</string>
+    <string name="izin">Izin</string>
+    <string name="alpha">Bolos</string>
+    <string name="diklik">%1$s Sedang %2$s</string>
+    <string name="email">Email</string>
+    <string name="bagikan">Bagikan</string>
+    <string name="input_invalid">Tidak boleh kosong</string>
+    <string name="login">Masuk</string>
+    <string name="username">Username</string>
+    <string name="password">Kata Sandi</string>
+    <string name="tambah_catatan">Tambah absensi</string>
+    <string name="tambah_error">Belum bisa tambah absen</string>
+    <string name="profile">Saya adalah Muhammad Wildan Dhiya Ulhaq seorang mahasiswa dari telkom university yang saat ini saya sedang berkuliah di jurusan D3 Rekayasa Perangkat Lunak Aplikasi</string>
+    <string name="list_kosong">Data Kosong</string>
+    <string name="simpan">Simpan</string>
+    <string name="edit_catatan">Ubah absensi</string>
+    <string name="kembali">Kembali</string>
+    <string name="judul">Nama Karyawan / Mahasiswa</string>
+    <string name="isi_catatan">NIP / NIM</string>
+    <string name="invalid">Nama, NIP / NIM dan Status tidak boleh kosong.</string>
+    <string name="lainnya">Opsi lainnya</string>
+    <string name="hapus">Hapus absen</string>
+    <string name="pesan_hapus">Hapus absen ini</string>
+    <string name="tombol_hapus">Hapus</string>
+    <string name="tombol_batal">Batal</string>
+    <string name="list">Tampilan list</string>
+    <string name="grid">Absence Application</string>
+    <string name="pilihan">Pilih Status Kehadiran :</string>
+</resources>

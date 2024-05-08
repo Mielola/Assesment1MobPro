@@ -120,7 +120,7 @@ fun LoginScreen(navController: NavHostController) {
                 },
                 modifier = Modifier.padding(top = 16.dp)
             ) {
-                Text(text = "Login")
+                Text(text = stringResource(R.string.login))
             }
 
         }
